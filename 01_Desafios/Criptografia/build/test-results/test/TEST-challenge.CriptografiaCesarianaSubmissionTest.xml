@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.CriptografiaCesarianaSubmissionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-04-19T18:47:11" hostname="DESKTOP-4G1K6E7" time="0.012">
+  <properties/>
+  <testcase name="deveRetornarErroQuandoCriptografaTextoEhNulo" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.002"/>
+  <testcase name="deveConverterCaracteresParaMinusculoNaDescriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.002"/>
+  <testcase name="deveManterOsNumerosNaCriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.002"/>
+  <testcase name="deveConverterCaracteresParaMinusculoNaCriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.002"/>
+  <testcase name="deveManterOsNumerosNaDescriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoDesCriptografaTextoEhNulo" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoODesCriptografaTextoEhVazio" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveCriptografarTexto" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.002"/>
+  <testcase name="deveRetornarErroQuandoOCriptografaTextoEhVazio" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveDescriptografarTexto" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.001"/>
+  <system-out><![CDATA[29
+39
+s
+e
+j
+a
+m
+ 
+b
+e
+m
+ 
+v
+i
+n
+d
+o
+s
+ 
+a
+o
+ 
+a
+c
+e
+l
+e
+r
+a
+ 
+b
+r
+a
+s
+i
+l
+ 
+2
+0
+1
+9
+29
+a
+p
+r
+e
+n
+d
+e
+r
+ 
+j
+a
+v
+a
+ 
+g
+e
+r
+a
+ 
+f
+e
+l
+i
+c
+i
+d
+a
+d
+e
+39
+55
+a
+ 
+l
+i
+g
+e
+i
+r
+a
+ 
+r
+a
+p
+o
+s
+a
+ 
+m
+a
+r
+r
+o
+m
+ 
+s
+a
+l
+t
+o
+u
+ 
+s
+o
+b
+r
+e
+ 
+o
+ 
+c
+a
+c
+h
+o
+r
+r
+o
+ 
+c
+a
+n
+s
+a
+d
+o
+55
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
