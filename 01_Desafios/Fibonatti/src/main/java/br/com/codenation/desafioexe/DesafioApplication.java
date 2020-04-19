@@ -1,17 +1,29 @@
 package br.com.codenation.desafioexe;
 
-import br.com.codenation.desafioexe.lista.Fibonacci;
-
+import java.util.ArrayList;
 import java.util.List;
-
 
 public class DesafioApplication {
 
-	public static void main(String[] args) {
-		Fibonacci Fib = new Fibonacci();
-		List result = Fib.fibonacci();
-		System.out.println(result);
-		System.out.println(Fib.isFibonacci(234));
+	public static List<Integer> fibonacci() {
+
+		List<Integer> lista = new ArrayList();
+
+		int a = 0, b = 1, resultado = 0;
+		lista.add(a);
+		lista.add(b);
+
+		do{
+			resultado = a + b;
+			a = b;
+			b = resultado;
+			lista.add(resultado);
+		}while(resultado <= 350);
+
+		return lista;
 	}
 
+	public static Boolean isFibonacci(Integer a) {
+		return fibonacci().contains(a);
+	}
 }
