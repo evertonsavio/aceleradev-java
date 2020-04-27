@@ -1,8 +1,8 @@
-DESAFIO INICIAL USADO COMO PROVA PARA INGRESSO NO PROGRAMA DE ACELERACAO EM JAVA DA CODENATION.  
+## DESAFIO INICIAL USADO COMO PROVA PARA INGRESSO NO PROGRAMA DE ACELERACAO EM JAVA DA CODENATION.  
   
 PODERIA SE UTILIZAR QUALQUER LINGUAGEM PARA RESOLVER O DESAFIO DE CRYPTOGRAFIA DE JULIO CESAR.  
-Linguagem escolhida: JavaScript.  
-##############################################################################################################################################
+Linguagem escolhida: JavaScript.    
+--------------------------------------------------------------------------------------------------   
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
