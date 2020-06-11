@@ -1,1 +1,1 @@
-https://academiadev.gitbook.io/joinville/seguranca/oauth2
+https://academiadev.gitbook.io/joinville/seguranca/oauth2  
