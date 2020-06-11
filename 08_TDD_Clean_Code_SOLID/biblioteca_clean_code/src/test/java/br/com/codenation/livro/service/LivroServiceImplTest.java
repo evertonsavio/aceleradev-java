@@ -33,11 +33,7 @@ public class LivroServiceImplTest {
         mockFindLivrosComAvaliacao();
         assertEquals(new Integer(4), livroServiceImpl.findByMaiorMediaAvaliacao().getMediaAvaliacoes());
     }
-
-
-
-
-
+    
     private void mockFindLivrosComAvaliacao() {
         Livro livro = mock(Livro.class);
         when(livro.getMediaAvaliacoes()).thenReturn(4);
